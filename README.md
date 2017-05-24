@@ -1,1 +1,2 @@
-# Exercises:
+# Solved Exercises:
+
