@@ -3,7 +3,7 @@ def solution(txt):
 
 
 
-while (1):
+while True:
   txt = raw_input()
   if txt == '0':
     break
